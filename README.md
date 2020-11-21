@@ -36,3 +36,11 @@ Projeto de Machine Learning
 - [] Escrita do artigo
 
 ** Para conseguir rodar o código, baixe o arquivo 'application_data.csv' e salve em uma pasta /datasets
+
+### Referências
+
+- https://www.kaggle.com/mishra5001/credit-card
+- https://www.kaggle.com/currie32/predicting-fraud-with-tensorflow/notebook
+- https://www.kaggle.com/nareshbhat/fraud-detection-feature-selection-over-sampling
+- https://www.kaggle.com/willkoehrsen/introduction-to-manual-feature-engineering
+- https://www.kaggle.com/codename007/home-credit-complete-eda-feature-importance
