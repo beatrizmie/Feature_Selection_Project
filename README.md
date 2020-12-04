@@ -29,11 +29,11 @@ Projeto de Machine Learning
 - [x] Treinar os modelos
 
 6. Ajuste fino e construção da solução
-- [] Comparar resultados e escolher o melhor modelo
-- [] Medir o desempenho no conjunto de testes
+- [x] Comparar resultados e escolher o melhor modelo
+- [x] Medir o desempenho no conjunto de testes
 
 7. Avaliação e apresentação
-- [] Escrita do artigo
+- [x] Escrita do artigo
 
 ** Para conseguir rodar o código, baixe o arquivo 'application_data.csv' e salve em uma pasta /datasets
 
